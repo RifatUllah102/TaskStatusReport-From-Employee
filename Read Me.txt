@@ -1,0 +1,3 @@
+Database Name 'task'.
+Table 1 'employee' contains all of the employee Id, Name, Email and password.
+Table 2 'tasklist' holds all of the task Id, TaskName, and Status.
